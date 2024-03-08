@@ -1,9 +1,10 @@
 REM Loop starts here
+DELAY 1000
 :LOOP
 STRING Hello
-DELAY 250
+DELAY 500
 ENTER
-DELAY 250
+DELAY 500
 REM Set the number of times you want to repeat the loop below
 REPEAT 10000
 REM Loop ends here
