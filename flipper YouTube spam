@@ -1,0 +1,9 @@
+REM Loop starts here
+:LOOP
+STRING Hello
+DELAY 250
+ENTER
+DELAY 250
+REM Set the number of times you want to repeat the loop below
+REPEAT 10000
+REM Loop ends here
